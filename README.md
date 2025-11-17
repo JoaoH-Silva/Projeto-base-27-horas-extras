@@ -84,10 +84,4 @@ Melhorias Possíveis
 - Versão com interface gráfica (GTK/WPF).
 - Banco SQLite no lugar de arquivos binários.
 
-
-Licença
--------
-Este projeto pode ser utilizado e modificado livremente. Se publicar no GitHub, considere dar os créditos 🙂
-
-
 */
