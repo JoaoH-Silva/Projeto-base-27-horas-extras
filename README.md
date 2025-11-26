@@ -23,6 +23,6 @@ Esta versão é um **protótipo funcional em Linguagem C**, focado na lógica in
 **João Henrique Alves Silva**
 **Matrícula: 202305582**
 
-** Murilo Rezende Coutinho**
+**Murilo Rezende Coutinho**
 **Matrícula: 202306296**
 */
