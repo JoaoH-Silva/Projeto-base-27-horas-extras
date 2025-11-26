@@ -20,6 +20,9 @@ Esta versão é um **protótipo funcional em Linguagem C**, focado na lógica in
 - `funcionarios_export.csv` — exportação dos dados  
 - `sistema.c` — código principal do projeto  
 ## Autor
-**João Henrique Alves Silva**  
+**João Henrique Alves Silva**
 **Matrícula: 202305582**
+
+** Murilo Rezende Coutinho**
+**Matrícula: 202306296**
 */
